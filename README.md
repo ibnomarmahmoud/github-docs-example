@@ -179,4 +179,4 @@ Github extends the functionality of Markdown tables to provide more alignment an
 - [GFM - Emoji CheatSheet](https://github.com/ikatyang/emoji-cheat-sheet)
 - [GFM - Tables (with extensions)](https://github.github.com/gfm/#tables-extension-) <sup>[2]</sup>
 
-
+Thanks
